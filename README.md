@@ -1,2 +1,3 @@
-# silver-guacamole
-My first repository
+# My first repository
+
+I am just perceive Git. I know C/C++ and Pascal little-bit...
